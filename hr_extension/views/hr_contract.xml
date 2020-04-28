@@ -20,7 +20,7 @@
                     <field name="cost_of_living" invisible= "1"/>
                     <field name="other_allowance" invisible= "1"/>
                     <field name="total" invisible= "1"/>
-                    <field name="gosi" invisible= "1"/>
+                    <field name="gosi"/>
                     <field name="pitems" widget='one2many_list'>
                             <tree editable="bottom">
                                 <field name="Type"/>
