@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data>
+
+        <record id="contract_items_group" model="res.groups">
+            <field name="name">Contract Items</field>
+        </record>
+
+        
+
+    </data>
+
+    
+
+</odoo>
+
+

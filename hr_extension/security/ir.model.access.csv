@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+contract_items_group_access_id,contract_items_group_access_id,hr_extension.model_payroll_items,contract_items_group,1,1,1,1
+contract_items_group_access_one_id,contract_items_group_access_one_id,hr_extension.model_payroll_tree,contract_items_group,1,1,1,1
+contract_items_group_access_id_everyone,contract_items_group_access_id,hr_extension.model_payroll_items,,1,0,0,0
+contract_items_group_access_one_id_everyone,contract_items_group_access_one_id,hr_extension.model_payroll_tree,,1,0,0,0
